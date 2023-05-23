@@ -1,8 +1,3 @@
-Sure, here's a starting point for your README.md file:
-
----
-
-````markdown
 # BookNManage
 
 BookNManage is an innovative application designed to streamline restaurant operations by integrating both online reservations and staff management into one user-friendly platform.
@@ -45,6 +40,7 @@ You need Node.js and npm installed on your machine. To install Node.js and npm, 
 ```bash
 git clone https://github.com/yourusername/BookNManage.git
 ```
+
 ````
 
 2. Move into the project directory
@@ -92,3 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Please replace `yourusername` and `yourgistlink` with your actual GitHub username and the link to your contributing guidelines. The contributing guidelines and license details should be added according to your preference and project's requirements.
 ```
+````
